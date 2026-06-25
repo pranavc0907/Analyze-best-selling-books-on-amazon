@@ -74,10 +74,10 @@ The following foundational analyses were performed within the notebook:
 Amazon-Best-Selling-Books-Analysis/
 │
 ├── Analyze-best-selling-books-on-amazon.ipynb   # Main Jupyter notebook containing clean EDA code
-├── bestsellers.csv                               # Original raw dataset
-├── top_authors.csv                               # Exported top authors dataset
+├── README.md                                     # Project presentation page
 ├── avgrating-by-genre.csv                        # Exported average ratings by genre data
-└── README.md                                     # Project presentation page
+├── bestsellers.csv                               # Original raw dataset
+└── top_authors.csv                               # Exported top authors dataset
 
 ```
 
